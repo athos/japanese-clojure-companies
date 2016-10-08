@@ -25,7 +25,7 @@
 
 ## 会社一覧
 
-### [株式会社ニャンパス](http://nyampass.com/)
+### [ニャンパス株式会社](http://nyampass.com/)
 
 - Clojure/ClojureScript利用サービス
   - [Baasday](https://baasday.com/): Clojure製MBaaS
