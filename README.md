@@ -33,3 +33,10 @@
   - (開発中)クリーニングチェーン向けレジ・工場システム
   
 Webサービス等のバックエンドとしてClojureを、Webに限らず様々な環境向けのフロントエンド構築にClojureScriptを手広く使っています。
+
+### [Greative.GK](https://greative.jp/)
+
+- 自社メディア [designudge](https://designudge.org/ja/)
+- 某WebサービスのAPIサーバ構築(Clojure)
+
+その他OSSプロダクトとして、ClojureScriptベースのElectronアプリケーションの開発スターターキット[descjop](http://descjop.org/) の開発。まだまだPlay framework(Java)やReact(JavaScript)ベースな開発が多いですが、積極的にClojure/ClojureScriptを導入していく予定です。
