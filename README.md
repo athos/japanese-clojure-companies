@@ -31,7 +31,7 @@
   - [Baasday](https://baasday.com/): Clojure製MBaaS
   - [Robip](https://robip.halake.com/): 自社製開発ボードHaLake Kit用ビジュアルプログラミング環境(ClojureScript製)
   - (開発中)クリーニングチェーン向けレジ・工場システム
-  
+
 Webサービス等のバックエンドとしてClojureを、Webに限らず様々な環境向けのフロントエンド構築にClojureScriptを手広く使っています。
 
 ### [Greative.GK](https://greative.jp/)
@@ -40,3 +40,13 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 - 某WebサービスのAPIサーバ構築(Clojure)
 
 その他OSSプロダクトとして、ClojureScriptベースのElectronアプリケーションの開発スターターキット[descjop](http://descjop.org/) の開発。まだまだPlay framework(Java)やReact(JavaScript)ベースな開発が多いですが、積極的にClojure/ClojureScriptを導入していく予定です。
+
+### [株式会社テンクー](https://xcoo.co.jp)
+
+- [Chrovis](https://chrov.is) ゲノム医療のためのトータルソリューションソフトウェアChrovis
+  - <https://github.com/chrovis> Chrovis関連のOSS
+- <https://github.com/xcoo> その他のOSS
+
+その他受託開発についても、Clojure/ClojureScriptで実装しています。
+
+テンクーの採用情報については <https://xcoo.co.jp/recruit.html>
