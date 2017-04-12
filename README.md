@@ -50,3 +50,14 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 その他受託開発についても、Clojure/ClojureScriptで実装しています。
 
 テンクーの採用情報については <https://xcoo.co.jp/recruit.html>
+
+
+### [株式会社シグニファイア](http://signifier.jp)
+
+- 米国プロフェッショナルサービス業向けグローバル提携事務所検索サービスの構築... サーバーサイドはcompojure-api, buddy, java.jdbc, carmine, honeysql, incanterなど。クライアントサイドはre-frame
+- 卸業向けたばこ税申告書生成サービス ... AWS Lambda, Clojure, Incanter
+- たばこ小売業向け卸売B2B Eコマース ... サーバーサイドはKong, compojure-api. クライアントサイドはReagent
+
+ビジネスアイデアを持つスタートアップ企業を対象に、アイデアをコラボレーションしながらWebサービスを構築し、運用まで行うビスポーク開発をClojure/cljsで提供しています。
+弊社代表は米国証券スタートアップ企業で、預かり高200億円規模のトレーディングバックオフィスシステムをClojureで構築した経験があります。
+
