@@ -71,3 +71,16 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 最近作っている新規のサービスは全てClojure/ClojureScriptを利用しています。
 
 サイボウズスタートアップスの[採用情報](https://cstap.com/jobs/)
+
+### [株式会社オプト Opt Technologies](https://www.opt.ne.jp/opttechnologies/)
+
+- Clojure利用プロダクト
+  - 社内依頼管理システム TASK DRIVER
+    - cf. [Clojureをプロダクトに導入した話 - Opt Technologies Magazine](http://tech-magazine.opt.ne.jp/entry/2017/09/06/074020)
+
+"Opt Technologies"とは、株式会社オプトのエンジニア仮想組織です。
+エンジニア自身による自治や組織改善を大事にしながら、アドテクノロジーを中心としたプロダクトの開発を行っています。
+["INNOVATION AGENCY"](http://www.opt.ne.jp/home/opt/vision/)を標榜するオプトのINNOVATIONの源泉となるべく、
+様々な技術を日々追求し、新しい価値創造の実現を目指しています。
+
+Opt Technologiesの[採用情報](https://open.talentio.com/1//c/opt-smc/requisitions/142)はこちらです。
