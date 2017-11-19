@@ -84,3 +84,17 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 様々な技術を日々追求し、新しい価値創造の実現を目指しています。
 
 Opt Technologiesの[採用情報](https://open.talentio.com/1//c/opt-smc/requisitions/142)はこちらです。
+
+### [LiME株式会社](http://limehair.jp/corp/)
+
+- Clojure利用プロダクト
+  - 美容師向け送客WEBサービス [STEKiNA](https://stekina.com/): ClojureScript([re-frame](https://github.com/Day8/re-frame)を利用)
+  - iOS/androidアプリ RiZM(仮): ClojureScript([Re-natal](https://github.com/drapanjanas/re-natal)を利用)
+
+美容師および美容に関わる業態向けのサービスの開発・運営をしています。
+他にもいくつかプロダクトがありますが、サーバーサイドはAPIやBatchすべてClojure製です。
+KPI管理などの社内ツールもほとんどがClojureで作られています。
+
+「どんな人でも美を簡単に表現できる世界を創造する」をモットーに
+現役美容師が立ち上げた会社です。テクノロジーの力でこれを実現できるよう、少ないメンバーで日々奮闘中です！
+
