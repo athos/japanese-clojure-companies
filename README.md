@@ -98,3 +98,18 @@ KPI管理などの社内ツールもほとんどがClojureで作られていま�
 「どんな人でも美を簡単に表現できる世界を創造する」をモットーに
 現役美容師が立ち上げた会社です。テクノロジーの力でこれを実現できるよう、少ないメンバーで日々奮闘中です！
 
+### [株式会社GYAO](http://www.gyao.co.jp/jp/index.html)
+ 
+- [GYAO!](https://gyao.yahoo.co.jp/)
+- [GYAO! ストア](https://streaming.yahoo.co.jp/)
+
+GYAOでは「エンターテインメントの力で、すべての人々の人生に充実した時間を提供する。」事をミッションに多種多様な公式動画を提供するサービスを運営しています。
+
+コンテンツを早く、リッチな形で提供するために、新規のデータ統合システムをClojureで実装しました。DatomicとGraphQLを採用し、柔軟性が高く、変更に強い、スケーラブルな分散システムを実現しています。 
+
+関連するインハウスツール群もClojureScriptで実装し、CLJCでSpec等のコードをサーバー/UI間で共有できるメリットを享受しています。
+
+#### 採用情報
+ヤフー株式会社、株式会社GYAOでは、共に働いてくれるFunctionalでImmutableかつPersistentなLispエイリアンを広く募集しています！
+- https://about.yahoo.co.jp/hr/
+- http://www.gyao.co.jp/jp/hr/
