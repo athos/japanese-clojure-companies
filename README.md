@@ -110,6 +110,6 @@ GYAOでは「エンターテインメントの力で、すべての人々の人�
 関連するインハウスツール群もClojureScriptで実装し、CLJCでSpec等のコードをサーバー/UI間で共有できるメリットを享受しています。
 
 #### 採用情報
-ヤフー株式会社、株式会社GYAOでは、共に働いてくれるFunctionalでImmutableかつPersistentなLispエイリアンを広く募集しています！
+ヤフー株式会社、株式会社GYAOでは、共に働いてくれるFunctionalでImmutableかつPersistentなLispエイリアンを広く募集しています！(エンジニアについてはヤフー株式会社の採用情報からご応募ください)
 - https://about.yahoo.co.jp/hr/
 - http://www.gyao.co.jp/jp/hr/
