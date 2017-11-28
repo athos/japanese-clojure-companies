@@ -30,7 +30,6 @@
 - Clojure/ClojureScript利用サービス
   - [Baasday](https://baasday.com/): Clojure製MBaaS
   - [Robip](https://robip.halake.com/): 自社製開発ボードHaLake Kit用ビジュアルプログラミング環境(ClojureScript製)
-  - (開発中)クリーニングチェーン向けレジ・工場システム
 
 Webサービス等のバックエンドとしてClojureを、Webに限らず様々な環境向けのフロントエンド構築にClojureScriptを手広く使っています。
 
