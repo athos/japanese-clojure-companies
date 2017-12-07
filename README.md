@@ -82,7 +82,7 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 ["INNOVATION AGENCY"](http://www.opt.ne.jp/home/opt/vision/)を標榜するオプトのINNOVATIONの源泉となるべく、
 様々な技術を日々追求し、新しい価値創造の実現を目指しています。
 
-Opt Technologiesの[採用情報](https://open.talentio.com/1//c/opt-smc/requisitions/142)はこちらです。
+Opt Technologiesの採用情報は[こちら](https://open.talentio.com/1/c/opt-smc/requisitions/473)です。
 
 ### [LiME株式会社](http://limehair.jp/corp/)
 
