@@ -108,6 +108,11 @@ GYAOでは「エンターテインメントの力で、すべての人々の人�
 
 関連するインハウスツール群もClojureScriptで実装し、CLJCでSpec等のコードをサーバー/UI間で共有できるメリットを享受しています。
 
+#### 採用情報
+ヤフー株式会社、株式会社GYAOでは、共に働いてくれるFunctionalでImmutableかつPersistentなLispエイリアンを広く募集しています！(エンジニアについてはヤフー株式会社の採用情報からご応募ください)
+- https://about.yahoo.co.jp/hr/
+- http://www.gyao.co.jp/jp/hr/
+
 ### [株式会社ユーザベース](https://www.uzabase.com/)
 
 - Clojure利用API/サービス
@@ -119,8 +124,3 @@ GYAOでは「エンターテインメントの力で、すべての人々の人�
 
 ユーザベースでは[SPEEDA](https://www.uzabase.com/service/speeda/)のマイクロサービス化を推めています。
 API/サービスごとに最適なモノを選択するという方針のもと、様々な言語/フレームワークを使用しています。([JOB DESCRIPITON](https://uzabase-inc.workable.com/j/550B7FDB1B)の"＜技術スタック＞"欄)
-
-#### 採用情報
-ヤフー株式会社、株式会社GYAOでは、共に働いてくれるFunctionalでImmutableかつPersistentなLispエイリアンを広く募集しています！(エンジニアについてはヤフー株式会社の採用情報からご応募ください)
-- https://about.yahoo.co.jp/hr/
-- http://www.gyao.co.jp/jp/hr/
