@@ -112,3 +112,15 @@ GYAOでは「エンターテインメントの力で、すべての人々の人�
 ヤフー株式会社、株式会社GYAOでは、共に働いてくれるFunctionalでImmutableかつPersistentなLispエイリアンを広く募集しています！(エンジニアについてはヤフー株式会社の採用情報からご応募ください)
 - https://about.yahoo.co.jp/hr/
 - http://www.gyao.co.jp/jp/hr/
+
+### [株式会社ユーザベース](https://www.uzabase.com/)
+
+- Clojure利用API/サービス
+  - pony: SQSのメッセージをトリガーとしてデータの取り込みを行います。
+  - whale: Google Cloud Pub/Subをトリガーとしてデータの取り込みを行います。
+  - speeda-integrity-validator: データの不整合を検知しSlackに通知します。
+  - magnum: Bing APIを用いて企業名称を元に対象企業のURLを特定します。
+  - bff: 複数のAPIを並列で呼び出しその結果を束ねてフロントエンドに返すAPIアグリゲーターです。
+
+ユーザベースでは[SPEEDA](https://www.uzabase.com/service/speeda/)のマイクロサービス化を推めています。
+API/サービスごとに最適なモノを選択するという方針のもと、様々な言語/フレームワークを使用しています。([JOB DESCRIPITON](https://uzabase-inc.workable.com/j/550B7FDB1B)の"＜技術スタック＞"欄)
