@@ -124,3 +124,14 @@ GYAOでは「エンターテインメントの力で、すべての人々の人�
 
 ユーザベースでは[SPEEDA](https://www.uzabase.com/service/speeda/)のマイクロサービス化を推めています。
 API/サービスごとに最適なモノを選択するという方針のもと、様々な言語/フレームワークを使用しています。([JOB DESCRIPITON](https://uzabase-inc.workable.com/j/550B7FDB1B)の"＜技術スタック＞"欄)
+
+### [Locarise株式会社](https://locarise.com/)
+
+Physical Space Intelligenceカンパニーとして物理的な空間を情報資源として扱えるようにすることをミッションにしています。
+
+直近では小売の店舗にWi-Fiの匿名電波をキャッチする装置を設置→AWS上で集めた情報を集計→ダッシュボードから店舗に訪ずれた人のおおよその滞在時間や店舗内のどのエリアを移動したかといったメトリクスを確認できるソリューションを提供しています。
+
+バックエンドのコードはPython/Django/AWS Lambdaで実装し、ダッシュボード部分はre-frameを利用したClojureScriptのSPAとして実装しています。
+今後バックエンド部分にもClojureを使っていきたいと考えています。
+
+国際色豊かなチームでPythonやClojure/ClojureScriptで仕事をしたい方、Wi-Fi機器等のハードウェアやネットワークの設定等好きな方はcareers@locarise.comまでご連絡ください。
