@@ -135,3 +135,10 @@ Physical Space Intelligenceカンパニーとして物理的な空間を情報�
 今後バックエンド部分にもClojureを使っていきたいと考えています。
 
 国際色豊かなチームでPythonやClojure/ClojureScriptで仕事をしたい方、Wi-Fi機器等のハードウェアやネットワークの設定等好きな方はcareers@locarise.comまでご連絡ください。
+
+### [株式会社Catallaxy](https://catallaxy.me/)
+
+「未来の製造業を作る」をミッションに、レガシーな製造業の分野をClojureで書き換えています。
+現在は社内向けのAPIのみClojure運用で、表向きのプロダクトはRuby on Railsを使っていますが、近い将来はClojure/ClojureScriptにすべて書き換える予定です。
+- [Mitsuri](https://mitsu-ri.net/): 金属加工のサプライチェーンを変革するプラットフォーム。
+- [Fabit](https://fa-bit.net/): 日本一わかりやすい製造業紹介メディア
