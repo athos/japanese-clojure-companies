@@ -125,7 +125,7 @@ GYAOでは「エンターテインメントの力で、すべての人々の人�
   - bff: 複数のAPIを並列で呼び出しその結果を束ねてフロントエンドに返すAPIアグリゲーターです。
 
 ユーザベースでは[SPEEDA](https://www.uzabase.com/service/speeda/)のマイクロサービス化を推めています。
-API/サービスごとに最適なモノを選択するという方針のもと、様々な言語/フレームワークを使用しています。([JOB DESCRIPITON](https://uzabase-inc.workable.com/j/550B7FDB1B)の"＜技術スタック＞"欄)
+API/サービスごとに最適なモノを選択するという方針のもと、様々な言語/フレームワークを使用しています。([JOB DESCRIPITON](https://uzabase-inc.workable.com/jobs/849108)の"＜技術スタック＞"欄)
 
 ### [Locarise株式会社](https://locarise.com/)
 
