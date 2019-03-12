@@ -71,18 +71,20 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 
 サイボウズスタートアップスの[採用情報](https://cstap.com/jobs/)
 
-### [株式会社オプト Opt Technologies](https://www.opt.ne.jp/opttechnologies/)
+### [株式会社オプト Opt Technologies](https://opt-technologies.jp/)
 
 - Clojure利用プロダクト
-  - 社内依頼管理システム TASK DRIVER
+  - 広告入稿Editorツール Opt Editor (REST API): Duct/Integrant, Pedestal
+  - 広告媒体アカウント管理システム AMS (GraphQL API): Duct/Integrant, Pedestal, Lacinia
+  - 社内依頼管理システム TASK DRIVER (バッチ): Luminus/mount, Immutant
     - cf. [Clojureをプロダクトに導入した話 - Opt Technologies Magazine](http://tech-magazine.opt.ne.jp/entry/2017/09/06/074020)
 
 "Opt Technologies"とは、株式会社オプトのエンジニア仮想組織です。
 エンジニア自身による自治や組織改善を大事にしながら、アドテクノロジーを中心としたプロダクトの開発を行っています。
-["INNOVATION AGENCY"](http://www.opt.ne.jp/home/opt/vision/)を標榜するオプトのINNOVATIONの源泉となるべく、
+["INNOVATION AGENCY"](https://www.opt.ne.jp/home/opt/vision/)を標榜するオプトのINNOVATIONの源泉となるべく、
 様々な技術を日々追求し、新しい価値創造の実現を目指しています。
 
-Opt Technologiesの採用情報は[こちら](https://open.talentio.com/1/c/opt-smc/requisitions/473)です。
+Opt Technologiesの採用情報は[こちら](https://opt-technologies.jp/index.html#recruit)です。
 
 ### [LiME株式会社](http://limehair.jp/corp/)
 
@@ -98,13 +100,13 @@ KPI管理などの社内ツールもほとんどがClojureで作られていま�
 現役美容師が立ち上げた会社です。テクノロジーの力でこれを実現できるよう、少ないメンバーで日々奮闘中です！
 
 ### [株式会社GYAO](http://www.gyao.co.jp/jp/index.html)
- 
+
 - [GYAO!](https://gyao.yahoo.co.jp/)
 - [GYAO! ストア](https://streaming.yahoo.co.jp/)
 
 GYAOでは「エンターテインメントの力で、すべての人々の人生に充実した時間を提供する。」事をミッションに多種多様な公式動画を提供するサービスを運営しています。
 
-コンテンツを早く、リッチな形で提供するために、新規のデータ統合システムをClojureで実装しました。DatomicとGraphQLを採用し、柔軟性が高く、変更に強い、スケーラブルな分散システムを実現しています。 
+コンテンツを早く、リッチな形で提供するために、新規のデータ統合システムをClojureで実装しました。DatomicとGraphQLを採用し、柔軟性が高く、変更に強い、スケーラブルな分散システムを実現しています。
 
 関連するインハウスツール群もClojureScriptで実装し、CLJCでSpec等のコードをサーバー/UI間で共有できるメリットを享受しています。
 
