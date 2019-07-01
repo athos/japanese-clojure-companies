@@ -60,16 +60,21 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 ビジネスアイデアを持つスタートアップ企業を対象に、アイデアをコラボレーションしながらWebサービスを構築し、運用まで行うビスポーク開発をClojure/cljsで提供しています。
 弊社代表は米国証券スタートアップ企業で、預かり高200億円規模のトレーディングバックオフィスシステムをClojureで構築した経験があります。
 
-### [サイボウズスタートアップス](https://cstap.com/)
+### [トヨクモ株式会社](https://toyokumo.co.jp/)
 
 - Clojureで開発しているサービス
-  - [安否確認サービス2](https://anpi.cstap.com/): 次世代型安否確認システム
-  - (開発中)[kintone](https://kintone.cybozu.com/jp/)と連携するサービス
+  - [安否確認サービス2](https://anpi.cstap.com/): 次世代型安否確認システム(2019年5月からテレビCM放映中)
+    - Clojure, ClojureScript, mount-lite, aero, Figwheel Main, Reagent, re-frame
+  - [kMailer](https://km.kintoneapp.com/): サイボウズ社の[kintone](https://kintone.cybozu.co.jp/)と連携する業務アプリケーション
+    - Clojure, ClojureScript, zou, Figwheel Main, rum
 
-主にClojureを使ってWebアプリケーションを開発しています。
-最近作っている新規のサービスは全てClojure/ClojureScriptを利用しています。
+Clojureを使ってSaaSを提供しています。
 
-サイボウズスタートアップスの[採用情報](https://cstap.com/jobs/)
+製品だけでなく、ClojureScriptで社内向けツールを作ったり、また今後もClojure/ClojureScirptを使った新製品を開発予定です。
+最近は社内勉強会として、[On Lisp](http://www.asahi-net.or.jp/~kc7k-nd/onlispjhtml/)勉強会を毎週開催しています。
+また、Clojureを書く人には、Intellij IDEAとCursiveのライセンスを支給しています。
+
+通年で採用を行なっています。採用情報は[こちら](https://toyokumo.co.jp/jobs)です。
 
 ### [株式会社オプト Opt Technologies](https://opt-technologies.jp/)
 
