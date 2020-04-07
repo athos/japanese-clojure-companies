@@ -64,9 +64,11 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 
 - Clojureで開発しているサービス
   - [安否確認サービス2](https://anpi.cstap.com/): 次世代型安否確認システム(2019年5月からテレビCM放映中)
-    - Clojure, ClojureScript, mount-lite, aero, Figwheel Main, Reagent, re-frame
+    - Clojure, ClojureScript, mount-lite, aero, shadow-cljs, Reagent, re-frame, gluttony
   - [kMailer](https://km.kintoneapp.com/): サイボウズ社の[kintone](https://kintone.cybozu.co.jp/)と連携する業務アプリケーション
     - Clojure, ClojureScript, zou, Figwheel Main, rum
+  - [DataCollect](https://dc.kintoneapp.com/): kintoneと連携するBIサービス
+    - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, struct, instaparse
 
 Clojureを使ってSaaSを提供しています。
 
