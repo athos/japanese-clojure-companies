@@ -42,14 +42,13 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 
 ### [株式会社テンクー](https://xcoo.co.jp)
 
-- [Chrovis](https://chrov.is) ゲノム医療のためのトータルソリューションソフトウェアChrovis
-  - <https://github.com/chrovis> Chrovis関連のOSS
-- <https://github.com/xcoo> その他のOSS
+テンクーでは、ゲノム医療のためのトータルソリューションソフトウェアChrovisの開発と、Chrovisを使った解析サービスの運営を行っています。
 
-その他受託開発についても、Clojure/ClojureScriptで実装しています。
+- [Chrovis](https://chrov.is)
+  - <https://github.com/chrovis>
+  - <https://github.com/xcoo>
 
-テンクーの採用情報については <https://xcoo.co.jp/recruit.html>
-
+テンクーの採用情報 https://xcoo.co.jp/recruit.html
 
 ### [株式会社シグニファイア](http://signifier.jp)
 
