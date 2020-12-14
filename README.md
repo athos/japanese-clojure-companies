@@ -80,15 +80,13 @@ Clojureを使ってSaaSを提供しています。
 ### [株式会社オプト Opt Technologies](https://opt-technologies.jp/)
 
 - Clojure利用プロダクト
-  - 広告入稿Editorツール Opt Editor (REST API): Duct/Integrant, Pedestal
-  - 広告媒体アカウント管理システム AMS (GraphQL API): Duct/Integrant, Pedestal, Lacinia
-  - 社内依頼管理システム TASK DRIVER (バッチ): Luminus/mount, Immutant
-    - cf. [Clojureをプロダクトに導入した話 - Opt Technologies Magazine](http://tech-magazine.opt.ne.jp/entry/2017/09/06/074020)
+  - 広告媒体アカウント管理システム「アムズ」(GraphQL API): Duct (Integrant), Pedestal, Lacinia
+  - 広告入稿Editorツール「Opt Editor」(REST API): Duct (Integrant), Pedestal
+  - 社内依頼管理システム「TASK DRIVER」(バッチ): Luminus (mount), Immutant
+    - cf. [Clojureをプロダクトに導入した話 - Opt Technologies Magazine](https://tech-magazine.opt.ne.jp/entry/2017/09/06/074020)
 
-"Opt Technologies"とは、株式会社オプトのエンジニア仮想組織です。
-エンジニア自身による自治や組織改善を大事にしながら、アドテクノロジーを中心としたプロダクトの開発を行っています。
-["INNOVATION AGENCY"](https://www.opt.ne.jp/home/opt/vision/)を標榜するオプトのINNOVATIONの源泉となるべく、
-様々な技術を日々追求し、新しい価値創造の実現を目指しています。
+Opt Technologiesとは、株式会社オプトのエンジニアリング部門です。
+企業や生活者を広告や技術でつなぐことで社会のデジタルシフトを推進し、より便利でサステナブルな社会の実現を目指します。
 
 Opt Technologiesの採用情報は[こちら](https://opt-technologies.jp/index.html#recruit)です。
 
