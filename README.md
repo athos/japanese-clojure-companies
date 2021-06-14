@@ -154,3 +154,19 @@ Physical Space Intelligenceカンパニーとして物理的な空間を情報�
 株式会社トレタは、飲食店向けの予約／顧客管理に特化したクラウド型サービスを手がけています。紙の予約台帳に置き換わるiPad予約台帳アプリ「トレタ」を中心に、最近では各社POSシステムとシームレスに連携する「POSコネクト」、様々なグルメサービスからの即時予約と予約実績管理を実現する「メディアコネクト」などの新機能を次々に開発しています。トレタは、予約管理・顧客管理の面から飲食店のIT化を牽引する「予約サービスのインフラ」を目指します。
 
 バックエンドのコードはRails/AWS Auroraですが、分析用のデータパイプラインClojureベースでCDCを行ってほぼリアルタイムでBigQueryにデータを流し込んでおります。またMySQLのinformation schemaを使ってCDCログからデーブル構造を復元するSQLを生成するところもClojureで実装しております。
+
+### [株式会社AGE technologies](https://age-technologies.co.jp)
+
+相続手続きのデジタル化を皮切りに「高齢社会にテクノロジー革命を起こす」スタートアップ企業です。
+
+Clojure/Script利用シーン
+
+- 社内オペレーター向けUI(ClojureScript & [Rum](https://github.com/tonsky/rum))
+- 会員様向けUI(ClojureScript & [Rum](https://github.com/tonsky/rum))
+- APIサーバー([duct](https://github.com/duct-framework) / [honeysql](https://github.com/seancorfield/honeysql))
+- 申請書自動生成システム
+
+相続は、課題の多さ、前例の少なさ、法律に関わる、などの点でチャレンジャブルな領域です。
+まずはこの領域を、Clojureで開拓していきます。
+
+[ご応募はこちら](https://herp.careers/v1/agetechinc/C0F_OtwIrGt1)
