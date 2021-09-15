@@ -178,7 +178,7 @@ Clojure/Script利用シーン
 - Clojure利用プロダクト
   - [Teachme Biz](https://biz.teachme.jp/): 業務効率化・⼈材育成を推進するマニュアル作成・共有プラットフォーム
 
-スタディストのメインプロダクト「Teachme Biz」はRuby on Railsで構成されていますが、新規機能開発をマイクロサービスとして開発しており、その中でも人材教育機能やsalesforce向けの連携機能などをClojureで開発しています。
+スタディストのメインプロダクト「Teachme Biz」はRuby on Railsで構成されていますが、新規機能開発をマイクロサービスとして開発しており、その中でも人材教育機能やSalesforce向けの連携機能などをClojureで開発しています。また、過去に[Clojure/north](https://medium.com/studist-dev/clojure-north-2019-report-f87b480b19f4)にメンバーが登壇した実績もあります。
 社内ではOSSへの貢献を行っていたり、必要であれば自社でOSS開発を行った実績もあり、スタディストの名の通り学びに積極的なメンバーが集まっています。
 
 株式会社スタディストの採用情報は[こちら](https://studist.jp/recruit/)
