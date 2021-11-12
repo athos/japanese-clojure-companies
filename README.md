@@ -62,17 +62,18 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 ### [トヨクモ株式会社](https://toyokumo.co.jp/)
 
 - Clojureで開発しているサービス
+  - [トヨクモ スケジューラー](https://www.toyokumo.app/scheduler): 社内の予定が見やすく社外の人とも日程調整でき、スマホでもカンタンなグループスケジューラー
+    - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony
   - [安否確認サービス2](https://anpi.cstap.com/): 次世代型安否確認システム(2019年5月からテレビCM放映中)
     - Clojure, ClojureScript, mount-lite, aero, shadow-cljs, Reagent, re-frame, gluttony
   - [kMailer](https://km.kintoneapp.com/): サイボウズ社の[kintone](https://kintone.cybozu.co.jp/)と連携する業務アプリケーション
-    - Clojure, ClojureScript, component, aero, Figwheel Main, rum, gluttony, tarayo
+    - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, tarayo
   - [DataCollect](https://dc.kintoneapp.com/): kintoneと連携するBIサービス
     - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, struct, instaparse
 
 Clojureを使ってSaaSを提供しています。
 
 製品だけでなく、ClojureScriptで社内向けツールを作ったり、また今後もClojure/ClojureScirptを使った新製品を開発予定です。
-最近は社内勉強会として、[On Lisp](http://www.asahi-net.or.jp/~kc7k-nd/onlispjhtml/)勉強会を毎週開催しています。
 また、Clojureを書く人には、Intellij IDEAとCursiveのライセンスを支給しています。
 
 通年で採用を行なっています。採用情報は[こちら](https://toyokumo.co.jp/jobs)です。
