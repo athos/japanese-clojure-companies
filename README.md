@@ -183,3 +183,16 @@ Clojure/Script利用シーン
 社内ではOSSへの貢献を行っていたり、必要であれば自社でOSS開発を行った実績もあり、スタディストの名の通り学びに積極的なメンバーが集まっています。
 
 株式会社スタディストの採用情報は[こちら](https://studist.jp/recruit/)
+
+### [合同会社ノイマン](https://www.neumann.tokyo/)
+
+- Clojure, Ruby, JavaScript, TypeScript などを用いた受託開発を主な業務としています。Clojure を用いた受託開発の実績も数件あります。
+- 本社は静岡県三島市にありますが業務は全てリモートワークで行なっているので、他県に住んでいる社員もいます。
+- また、最近ではネパールに業務の一部を委託するオフショアも行なっており、今後もグローバルな活動を続けていく予定です。
+- インターンシップ制度など若手人材の教育にも力を入れています。
+- 自社開発プロダクトも Clojure を用いて開発しています。
+  - [Word Penne](https://word-penne-lp.neumann.tokyo/)
+    - 単語帳作成アプリ
+    - ClojureScript (Reagent, Re-Frame) を用いて開発して Firebase にデプロイしています
+
+お問合せ、求人の申込などは [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdHMxI-xN5SFX_XPGmmJ3dWh8P1jSwmKKSsJmiCQp1LJfgyxA/viewform) からお願いします。
