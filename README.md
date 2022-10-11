@@ -104,7 +104,7 @@ KPI管理などの社内ツールもほとんどがClojureで作られていま�
 「どんな人でも美を簡単に表現できる世界を創造する」をモットーに
 現役美容師が立ち上げた会社です。テクノロジーの力でこれを実現できるよう、少ないメンバーで日々奮闘中です！
 
-### [株式会社GYAO](http://www.gyao.co.jp/jp/index.html)
+### [株式会社GYAO](https://www.gyao.co.jp)
 
 - [GYAO!](https://gyao.yahoo.co.jp/)
 - [GYAO! ストア](https://streaming.yahoo.co.jp/)
