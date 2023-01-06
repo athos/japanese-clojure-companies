@@ -64,12 +64,14 @@ Webサービス等のバックエンドとしてClojureを、Webに限らず様�
 - Clojureで開発しているサービス
   - [トヨクモ スケジューラー](https://www.toyokumo.app/scheduler): 社内の予定が見やすく社外の人とも日程調整でき、スマホでもカンタンなグループスケジューラー
     - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony
-  - [安否確認サービス2](https://anpi.cstap.com/): 次世代型安否確認システム(2019年5月からテレビCM放映中)
+  - [安否確認サービス2](https://anpi.toyokumo.co.jp/): 次世代型安否確認システム(2019年5月からテレビCM放映中)
     - Clojure, ClojureScript, mount-lite, aero, shadow-cljs, Reagent, re-frame, gluttony
-  - [kMailer](https://km.kintoneapp.com/): サイボウズ社の[kintone](https://kintone.cybozu.co.jp/)と連携する業務アプリケーション
-    - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, tarayo
-  - [DataCollect](https://dc.kintoneapp.com/): kintoneと連携するBIサービス
-    - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, struct, instaparse
+  - [kintone連携サービス](https://kintoneapp.com/)
+    - 全製品のGraphQL APIでClojureを使用しています。
+    - [kMailer](https://km.kintoneapp.com/): サイボウズ社の[kintone](https://kintone.cybozu.co.jp/)と連携するWebサービス
+      - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, tarayo, lacinia, superlifter
+    - [DataCollect](https://dc.kintoneapp.com/): サイボウズ社の[kintone](https://kintone.cybozu.co.jp/)と連携するWebサービス
+      - Clojure, ClojureScript, component, aero, shadow-cljs, Reagent, re-frame, gluttony, struct, instaparse, lacinia, superlifter
 
 Clojureを使ってSaaSを提供しています。
 
