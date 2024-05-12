@@ -180,11 +180,13 @@ Clojure/Script利用シーン
 
 - Clojure利用プロダクト
   - [Teachme Biz](https://biz.teachme.jp/): 業務効率化・⼈材育成を推進するマニュアル作成・共有プラットフォーム
+  - [Teachme Player](https://biz.teachme.jp/function/teachmeplayer/): 張り付き型の研修や教育をなくし人材育成を効率化するプロダクト
 
-スタディストのメインプロダクト「Teachme Biz」はRuby on Railsで構成されていますが、新規機能開発をマイクロサービスとして開発しており、その中でも人材教育機能やSalesforce向けの連携機能などをClojureで開発しています。また、過去に[Clojure/north](https://medium.com/studist-dev/clojure-north-2019-report-f87b480b19f4)にメンバーが登壇した実績もあります。
-社内ではOSSへの貢献を行っていたり、必要であれば自社でOSS開発を行った実績もあり、スタディストの名の通り学びに積極的なメンバーが集まっています。
+スタディストのメインプロダクト「Teachme Biz」の新規機能をマイクロサービスとして開発しており、人材教育機能などをClojureで開発しています。2024年より新規事業として「Teachme Player」を立ち上げ、ClojureDartを活用したモバイルアプリ開発も行っております。
+過去には[Clojure/north](https://studist.tech/clojure-north-2019-report-f87b480b19f4)にメンバーが登壇した実績（[登壇動画URL](https://www.youtube.com/watch?v=DL90i6RCwhs)）もあります。
+社内ではOSSへの貢献や必要であれば自社でもOSS開発も行っており、スタディスト(Study +ist)の名の通り、学びに積極的なメンバーが集まっています。
 
-株式会社スタディストの採用情報は[こちら](https://studist.jp/recruit/)
+株式会社スタディストの採用については[Studist Engineering Entrancebook](https://studist-engineering.gitbook.io/)から歓談希望フォームよりご連絡ください。
 
 ### [合同会社ノイマン](https://www.neumann.tokyo/)
 
