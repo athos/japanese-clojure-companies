@@ -178,11 +178,11 @@ Clojure/Script利用シーン
 
 「伝えることを、もっと簡単に。」をミッションに、業務効率化のためのBtoBプラットフォームを提供しています。
 
-- Clojure利用プロダクト
+- Clojure/ClojureScript利用プロダクト
   - [Teachme Biz](https://biz.teachme.jp/): 業務効率化・⼈材育成を推進するマニュアル作成・共有プラットフォーム
-  - [Teachme Player](https://biz.teachme.jp/function/teachmeplayer/): 張り付き型の研修や教育をなくし人材育成を効率化するプロダクト
+  - [Teachme MySkill](https://biz.teachme.jp/product/myskill/): 現場のスキルを可視化し、自律的な成長と人材育成を支援するプロダクト
 
-スタディストのメインプロダクト「Teachme Biz」の新規機能をマイクロサービスとして開発しており、人材教育機能などをClojureで開発しています。2024年より新規事業として「Teachme Player」を立ち上げ、ClojureDartを活用したモバイルアプリ開発も行っております。
+スタディストのメインプロダクト「Teachme Biz」のマイクロサービスや「Teachme MySkill」を開発しており、バックエンドにClojure、WebフロントエンドにClojureScriptを利用しています。また、「Teachme MySkill」の機能を利用できるモバイルアプリ「Teachme Player」ではClojureDartを活用しています。
 過去には[Clojure/north](https://studist.tech/clojure-north-2019-report-f87b480b19f4)にメンバーが登壇した実績（[登壇動画URL](https://www.youtube.com/watch?v=DL90i6RCwhs)）もあります。
 社内ではOSSへの貢献や必要であれば自社でもOSS開発も行っており、スタディスト(Study +ist)の名の通り、学びに積極的なメンバーが集まっています。
 
